@@ -8,8 +8,13 @@
 
 ## 진행방식
 * 개인별 단독 프로젝트로 진행하며, 개인별Branch 로 작업을 진행함.
-* 데이터랩 OpenAPI를 활용하여 작업한 (https://developers.naver.com/docs/datalab/search/)
-* 2일차 종료전 각자 개발한 컨셉과 기능들에 대해 설명하는 자리를
+* 데이터랩 OpenAPI를 활용하여 작업 (https://developers.naver.com/docs/datalab/search/)
+* 2일차 종료전 팀내에서 각자 개발한 컨셉과 기능들에 대해 설명하는 자리를 갖고자 합니다.
+
+## 사전준비
+* 데이터랩 OpenAPI 접근을 위한 준비 (계정, 키발급 등)
+* 기술 Stack에 대한 준비
+* 카카오톡 오픈채팅방 참여 -> https://open.kakao.com/o/g7fHIWC (code:2017)
 
 ## 주제
 * 선정 배경
