@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://openapi.naver.com",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2",
+    "react": "^16.1.1",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-dates": "^15.1.0",
+    "react-dom": "^16.1.1",
+    "react-scripts": "^1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "superagent": "^3.8.1"
+  }
+}

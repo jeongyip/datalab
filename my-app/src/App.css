@@ -1,0 +1,92 @@
+.header {
+  width: 100%;
+  background-image: linear-gradient(124deg, #1effd8, #13e989);
+  padding: 48px;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.color-white {
+  color: #FFF;
+}
+
+.data-box {
+  width: 312px;
+  padding: 12px 20px;
+  border-radius: 2px;
+  border: none;
+  font-size: 16px;
+}
+
+.search-btn {
+  display: inline-block;
+  padding: 12px 200px;
+  border-radius: 2px;
+  background-color: #3b5998;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.padding-8 {
+  padding: 8px;
+}
+
+.top-margin-8 {
+  margin-top: 8px;
+}
+
+.margin-8 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.input-container {
+  display: flex;
+  padding-top: 8px;
+}
+
+.setting-box {
+  display: inline-block;
+  box-shadow: inset 0 -2px 0 0 #000;
+  cursor: pointer;
+}
+
+.plus-btn {
+  font-size: 48px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.tag {
+  border-radius: 24px;
+  border: solid 1px #cdd1d6;
+  padding: 8px 16px;
+  font-size: 14px;
+  margin-right: 4px;
+  background-color: #fff;
+}
+
+.tag-div {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.chart-div {
+  width: 100%;
+  padding: 48px;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0px;
+}
+
+.description {
+  margin-bottom: 16px;
+}
+
+.filter {
+  margin-left:8px;
+}
