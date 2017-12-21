@@ -1,15 +1,15 @@
+//eslint-disable import/first
+
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import moment from 'moment';
-import _ from 'lodash';
 import { LineChart, Line, XAxis, YAxis, Tooltip, CartesianGrid, Brush, Legend,
-  ReferenceArea, ReferenceLine, ReferenceDot, ResponsiveContainer,
-  LabelList, Label } from 'recharts';
+  ReferenceArea, ReferenceLine, ReferenceDot, ResponsiveContainer, Label } from 'recharts';
+import moment from 'moment';
 import './App.css';
 import 'react-dates/initialize';
 import { DateRangePicker, SingleDatePicker, DayPickerRangeController } from 'react-dates';
 import 'react-dates/lib/css/_datepicker.css';
-import {Checkbox, CheckboxGroup} from 'react-checkbox-group';
+import { Checkbox, CheckboxGroup } from 'react-checkbox-group';
+import _ from 'lodash';
 
 const request = require('superagent');
 

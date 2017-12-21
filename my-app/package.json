@@ -8,9 +8,13 @@
     "moment": "^2.19.2",
     "react": "^16.1.1",
     "react-addons-shallow-compare": "^15.6.2",
+    "react-checkbox-group": "^3.3.4",
     "react-dates": "^15.1.0",
     "react-dom": "^16.1.1",
-    "react-scripts": "^1.0.17"
+    "react-redux": "^5.0.6",
+    "react-scripts": "^1.0.17",
+    "recharts": "^1.0.0-beta.6",
+    "redux": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
